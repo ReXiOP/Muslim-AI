@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ReXiOP.github.io/Muslim-AI/static/css/main.23975ffe.css",
+    "main.js": "/ReXiOP.github.io/Muslim-AI/static/js/main.39953dcf.js",
+    "index.html": "/ReXiOP.github.io/Muslim-AI/index.html",
+    "main.23975ffe.css.map": "/ReXiOP.github.io/Muslim-AI/static/css/main.23975ffe.css.map",
+    "main.39953dcf.js.map": "/ReXiOP.github.io/Muslim-AI/static/js/main.39953dcf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.23975ffe.css",
+    "static/js/main.39953dcf.js"
+  ]
+}
